@@ -223,12 +223,12 @@ aside > p {
 }
 
 aside > ul {
-    list-style-type: '\2714\0020\0020'; /* \codigo marcador \ espaço */
+    list-style-type: '\2714\0020';
     list-style-position: inside;
     columns: 2;
     text-align: left;
     margin-left: 20px;
-    padding-left: 40px;
+    padding-left: 20px;
     padding-top: 15px;
     color: var(--cor5);
     font-family: var(--fonte-padrao);
